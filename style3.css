@@ -1,0 +1,19 @@
+h1{
+    font-family: "Bitcount Ink", system-ui;
+    font-size: 100px;
+
+}
+p{
+    font-style: oblique;
+    font-weight:900;
+    font-size: 20px;
+    font-variant: small-caps;
+    display: grid;
+
+}
+
+.rat{
+    font-size: 2em;
+    font-variant: small-caps;
+    visibility: hidden;
+}
